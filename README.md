@@ -5,4 +5,4 @@ A brief NLP Naive Bayes spam classifier model. Used for a blog post.
 Spam_classifier.ipynb
 
 ### Blog hosted:
-[Blog](bloglink)
+[Blog](https://bensdata.science.blog/2020/03/14/creating-a-spam-classifier-with-nlp-and-naive-bayes/)
